@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "theme": "#386C43",
+    "menu-active": "#529259",
+    "menu-hover": "#61B96A",
+    "link": "#1687AB",
+    "link-hover": "#00A6DB",
+    "link-visited": "#295F71"
+  }
+}
